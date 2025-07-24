@@ -22,7 +22,7 @@ Projeto de API REST desenvolvida em **Java 21 com Spring Boot**, com endpoints p
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [H2 Database (ou PostgreSQL/MySQL)](https://www.h2database.com)
 - [Maven](https://maven.apache.org/)
-- [Lombok](https://projectlombok.org/) *(se estiver usando)*
+- [Lombok](https://projectlombok.org/)
 
 ---
 ## Você pode testar a API com:
